@@ -1,6 +1,6 @@
 This dashboard titled **"Covid-19 Report"** provides a visual overview of global COVID-19 statistics, sourced from Worldometer's data, accessible [here](https://www.worldometers.info/coronavirus/?utm_campaign=homeAdvegas1%3F).
 
-![Covid-19 Dashboard](Covid_19 Report.png)
+
 ### Key Features:
 1. **Total Cases, Recovered, and Deaths**: 
    - Displays the total number of COVID-19 cases, recoveries, and deaths globally. The figures are shown prominently at the top, with:
