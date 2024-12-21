@@ -25,3 +25,6 @@ The raw data was cleaned to ensure accurate representation of the statistics, el
 
 This dashboard demonstrates an effective combination of table, map, and chart visualizations, providing both a macro (continent-level) and micro (country-level) view of the pandemic.
 
+
+![Covid_19 Report](https://github.com/user-attachments/assets/71d3569b-b61f-4217-a652-e4f50462e37c)
+
